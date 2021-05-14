@@ -1,0 +1,33 @@
+h1 {
+    background: #eaebe3;
+}
+
+img {
+    display: inline-block;
+    width: 30%;    
+}
+
+body {
+    background: white;
+    padding: 20px;
+}
+
+div {
+    padding: 20px;  
+    margin: 20px 0;
+}
+
+.paragrafos {
+    text-align: center;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    background: #eaebe3;
+    padding: 40px 0;
+}
+
+.imagemfooter {
+    width: 200px;
+}
